@@ -1,10 +1,10 @@
-# Priorota - Task Management Web App
+# Priorita - Task Management Web App
 
-Welcome to Priorota, your ultimate task management solution! 📝✨
+Welcome to Priorita, your ultimate task management solution! 📝✨
 
 ## Overview
 
-Priorota is a powerful Task Management Web App built using React.js for the frontend and Node.js with Express.js for the backend. It leverages MySQL as the database and is styled using Tailwind CSS with DaisyUI components. The project integrates various libraries such as Express.js, cors, dotenv, mysql2, React Hot Toast, and React Icons to enhance functionality and user experience.
+Priorita is a powerful Task Management Web App built using React.js for the frontend and Node.js with Express.js for the backend. It leverages MySQL as the database and is styled using Tailwind CSS with DaisyUI components. The project integrates various libraries such as Express.js, cors, dotenv, mysql2, React Hot Toast, and React Icons to enhance functionality and user experience.
 
 ## Features
 
@@ -41,13 +41,13 @@ Priorota is a powerful Task Management Web App built using React.js for the fron
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Priorota.git
+   git clone https://github.com/your-username/task-management.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd Priorota
+   cd task-management
    npm install
    ```
 
@@ -72,7 +72,7 @@ Priorota is a powerful Task Management Web App built using React.js for the fron
 
 ## Contributions
 
-Contributions are welcome! Feel free to open issues and submit pull requests to help improve Priorota.
+Contributions are welcome! Feel free to open issues and submit pull requests to help improve Priorita.
 
 ## License
 
